@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ES_RRA_GHProject1Project
+  gitServerName: ES_RRA_GitHub_exp
+  gitUrl: https://github.com/RosaMaria-Rodriguez-087697838
+  gitUsername: RosaMaria-Rodriguez-087697838
+  gitBranch: main
