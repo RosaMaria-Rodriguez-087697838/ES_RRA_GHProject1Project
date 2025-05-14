@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/RosaMaria-Rodriguez-087697838
   gitUsername: RosaMaria-Rodriguez-087697838
   gitBranch: main
+services:
+- serviceName: project.es_rra_ghproject1.integrations:Pruebas
+  packages:
+  - name: ES_RRA_GHProject1Project
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2040
